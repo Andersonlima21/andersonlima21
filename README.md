@@ -1,7 +1,7 @@
-### Olá! Apenas um Front-end aqui
+### Olá! Apenas um Front-end por aqui.
 
 
-- 🔭 Trabalho no desenvolvimento de Frot-end
+- 🔭 Trabalho no desenvolvimento de Front-end
 - 🌱 Estudando React, Angular, JavaScript e TypeScript
 - 📫 Contate-me pelo E-mail: And.seijuro21@gmail.com
 - ⚡ Conhecido como "Front-end tela preta"
