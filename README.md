@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho no desenvolvimento de Front-end
-- 🌱 Estudando React, Angular, JavaScript e TypeScript / Estudando atualmente Back-end: PHP
+- 🌱 Estudando React, Angular, JavaScript e TypeScript / Estudando atualmente Back-end: PHP e Python
 - 📫 Contate-me pelo E-mail: And.seijuro21@gmail.com
 - ⚡ Conhecido como "Front-end tela preta"
 
