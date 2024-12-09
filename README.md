@@ -1,10 +1,10 @@
-### Olá! Apenas um Front-end por aqui.
+### Olá!.
 
 
-- 🔭 Trabalho no desenvolvimento de Front-end
-- 🌱 Estudando React, Angular, JavaScript e TypeScript / Estudando atualmente Back-end: PHP e Python
-- 📫 Contate-me pelo E-mail: And.seijuro21@gmail.com
-- ⚡ Conhecido como "Front-end tela preta"
+- 🔭 Desenvolvedor FullStack
+- 🌱 Estudando Java 
+- 📫 Contate-me pelo E-mail: Andersonlimadev21@gmai.com
+- ⚡ Stacks PHP com Laravel, MySql, Blade, jQuery, Bootstrap, React, React Native (para aplicações móveis) e React com Next.js, além do Material-UI
 
 <div>
   <a href="https://github.com/andersonlima2">
@@ -19,6 +19,7 @@
   <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
