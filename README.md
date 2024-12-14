@@ -3,7 +3,7 @@
 
 - 🔭 Desenvolvedor FullStack
 - 🌱 Estudando Java 
-- 📫 Contate-me pelo E-mail: Andersonlimadev21@gmai.com
+- 📫 Contate-me pelo E-mail: Andersonlimadev21@gmail.com
 - ⚡ Stacks PHP com Laravel, MySql, Blade, jQuery, Bootstrap, React, React Native (para aplicações móveis) e React com Next.js, além do Material-UI
 
 <div>
